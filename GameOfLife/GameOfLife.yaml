@@ -1,0 +1,15 @@
+name: GameOfLife
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - matplotlib
+  - ipython
+  - tqdm
+  - jupyter
+  - ipykernel
+  - ca-certificates
+  - openssl
+  - ffmpeg
+  - certifi
